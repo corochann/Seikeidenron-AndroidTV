@@ -1,0 +1,80 @@
+{
+  "videolists": [
+    {
+      "category": "YouTube",
+      "videos": [
+        {
+          "id": 0,
+          "description": "ここに詳細説明を記載",
+          "sources": [
+            "birds_on_street_at_city.mp4"
+          ],
+          "card": "birds_on_street_at_city_thumbnail.jpg",
+          "background": "birds_on_street_at_city_bg.jpg",
+          "title": "Birds on street at city",
+          "studio": "ビデオ１"
+        },
+        {
+          "id": 1,
+          "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
+          "sources": [
+            "waterfall_stream_nature.mp4"
+          ],
+          "card": "waterfall_stream_nature_thumbnail.jpg",
+          "background": "waterfall_stream_nature_bg.jpg",
+          "title": "Waterfall stream nature",
+          "studio": "ビデオ２"
+        },
+        {
+          "id": 2,
+          "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
+          "sources": [
+            "slow_motion_dog_people_and_a_firecracker.mp4"
+          ],
+          "card": "slow_motion_dog_people_and_a_firecracker_thumbnail.jpg",
+          "background": "slow_motion_dog_people_and_a_firecracker_bg.jpg",
+          "title": "Slow motion dog people and a firecracker",
+          "studio": "ビデオ３"
+        }
+      ]
+    },
+    {
+      "category": "ニコニコ動画",
+      "videos": [
+        {
+          "id": 100,
+          "description": "ここに詳細説明を記載",
+          "sources": [
+            "greenhouse_with_cacti.mp4"
+          ],
+          "card": "greenhouse_with_cacti_thumbnail.jpg",
+          "background": "greenhouse_with_cacti_bg.jpg",
+          "title": "Greenhouse with cacti",
+          "studio": "ビデオ４"
+        },
+        {
+          "id": 101,
+          "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
+          "sources": [
+            "timelapse_of_stockholm_at_night.mp4"
+          ],
+          "card": "timelapse_of_stockholm_at_night_thumbnail.jpg",
+          "background": "timelapse_of_stockholm_at_night_bg.jpg",
+          "title": "Timelapse of stockholm at night",
+          "studio": "ビデオ5"
+        },
+        {
+          "id": 102,
+          "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
+          "sources": [
+            "roller_coaster.mp4"
+          ],
+          "card": "roller_coaster_thumbnail.jpg",
+          "background": "roller_coaster_bg.jpg",
+          "title": "Roller coaster",
+          "studio": "ビデオ６"
+        }
+      ]
+    }
+  ]
+}

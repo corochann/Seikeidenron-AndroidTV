@@ -1,0 +1,40 @@
+<resources>
+
+    <!-- Application common -->
+    <string name="app_name">Seikeidenron</string>
+    <!-- For AndroidManifest -->
+    <string name="app_title">政経電論</string>
+    <!-- For Title of UI -->
+
+
+    <!-- MainActivity -->
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_header_zasshi">電子雑誌</string>
+    <string name="title_header_youtube">政経電論 YouTube</string>
+    <string name="title_header_setting">設定</string> <!--not used for now-->
+    <string name="title_header_about">概要</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="seikeidenron_about">政経電論とは</string>
+
+
+    <!-- Details Activity -->
+    <string name="title_activity_details">DetailsActivity</string>
+
+    <string name="movie">Movie</string>
+
+    <string name="error">Error</string>
+    <!-- Error messages -->
+    <string name="video_error_media_load_timeout">Media loading timed out</string>
+    <string name="video_error_server_inaccessible">Media server was not reachable</string>
+    <string name="video_error_unknown_error">Failed to load video</string>
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+    <string name="oops">Oops</string>
+    <string name="title_activity_playback_overlay">PlaybackOverlayActivity</string>
+    <string name="should_start">shouldStart</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_zasshi">ZasshiActivity</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+
+</resources>

@@ -1,0 +1,112 @@
+{
+  "seikeidenron_zasshi_list": [
+    {
+      "id": 1,
+      "title": "政経電論 創刊号",
+      "subtitle": "",
+      "description": "",
+      "main_content_url": "http://seikeidenron.jp/book/vol1/",
+      "thumbnail_url":  "http://corochann.com/wp-content/uploads/2016/02/zasshi01.png",
+      "background_url": "http://corochann.com/wp-content/uploads/2016/02/s_klcc.jpg"
+    },
+    {
+      "id": 2,
+      "title": "政経電論 第2号",
+      "subtitle": "",
+      "description": "",
+      "main_content_url": "http://seikeidenron.jp/book/vol2/",
+      "thumbnail_url":  "http://corochann.com/wp-content/uploads/2016/02/zasshi02.png",
+      "background_url": "http://corochann.com/wp-content/uploads/2016/02/s_pexels-photo-39811.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "政経電論 第3号",
+      "subtitle": "",
+      "description": "",
+      "main_content_url": "http://seikeidenron.jp/book/vol3/",
+      "thumbnail_url":  "http://corochann.com/wp-content/uploads/2016/02/zasshi03.png",
+      "background_url": "http://corochann.com/wp-content/uploads/2016/02/s_people-woman-coffee-meeting.jpg"
+    },
+    {
+      "id": 4,
+      "title": "政経電論 第4号",
+      "subtitle": "",
+      "description": "",
+      "main_content_url": "http://seikeidenron.jp/book/vol4/",
+      "thumbnail_url":  "http://corochann.com/wp-content/uploads/2016/02/zasshi04.png",
+      "background_url": "http://corochann.com/wp-content/uploads/2016/02/s_pexels-photo.jpg"
+    },
+    {
+      "id": 5,
+      "title": "政経電論 第5号",
+      "subtitle": "",
+      "description": "",
+      "main_content_url": "http://seikeidenron.jp/book/vol5/",
+      "thumbnail_url":  "http://corochann.com/wp-content/uploads/2016/02/zasshi05.png",
+      "background_url": "http://corochann.com/wp-content/uploads/2016/02/s_pexels-photo-29243.jpg"
+    },
+    {
+      "id": 6,
+      "title": "政経電論 第6号",
+      "subtitle": "",
+      "description": "",
+      "main_content_url": "http://seikeidenron.jp/book/vol6/",
+      "thumbnail_url":  "http://corochann.com/wp-content/uploads/2016/02/zasshi06.png",
+      "background_url": "http://corochann.com/wp-content/uploads/2016/02/s_road-sun-rays-path.jpg"
+    },
+    {
+      "id": 7,
+      "title": "政経電論 第7号",
+      "subtitle": "",
+      "description": "",
+      "main_content_url": "http://seikeidenron.jp/book/vol7/",
+      "thumbnail_url":  "http://corochann.com/wp-content/uploads/2016/02/zasshi07.png",
+      "background_url": "http://corochann.com/wp-content/uploads/2016/02/s_klcc.jpg"
+    },
+    {
+      "id": 8,
+      "title": "政経電論 第8号",
+      "subtitle": "",
+      "description": "",
+      "main_content_url": "http://seikeidenron.jp/book/vol8/",
+      "thumbnail_url":  "http://corochann.com/wp-content/uploads/2016/02/zasshi08.png",
+      "background_url": "http://corochann.com/wp-content/uploads/2016/02/s_pexels-photo-39811.jpeg"
+    },
+    {
+      "id": 9,
+      "title": "政経電論 第9号",
+      "subtitle": "",
+      "description": "",
+      "main_content_url": "http://seikeidenron.jp/book/vol9/",
+      "thumbnail_url":  "http://corochann.com/wp-content/uploads/2016/02/zasshi09.png",
+      "background_url": "http://corochann.com/wp-content/uploads/2016/02/s_people-woman-coffee-meeting.jpg"
+    },
+    {
+      "id": 10,
+      "title": "政経電論 第10号",
+      "subtitle": "",
+      "description": "",
+      "main_content_url": "http://seikeidenron.jp/book/vol10/",
+      "thumbnail_url":  "http://corochann.com/wp-content/uploads/2016/02/zasshi10.png",
+      "background_url": "http://corochann.com/wp-content/uploads/2016/02/s_pexels-photo.jpg"
+    },
+    {
+      "id": 11,
+      "title": "政経電論 第11号",
+      "subtitle": "",
+      "description": "",
+      "main_content_url": "http://seikeidenron.jp/book/vol11/",
+      "thumbnail_url":  "http://corochann.com/wp-content/uploads/2016/02/zasshi11.png",
+      "background_url": "http://corochann.com/wp-content/uploads/2016/02/s_pexels-photo-29243.jpg"
+    },
+    {
+      "id": 12,
+      "title": "政経電論 第12号",
+      "subtitle": "",
+      "description": "",
+      "main_content_url": "http://seikeidenron.jp/book/vol12/",
+      "thumbnail_url":  "http://corochann.com/wp-content/uploads/2016/02/zasshi12.png",
+      "background_url": "http://corochann.com/wp-content/uploads/2016/02/s_road-sun-rays-path.jpg"
+    }
+  ]
+}

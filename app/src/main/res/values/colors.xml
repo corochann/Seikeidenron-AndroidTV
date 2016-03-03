@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_gradient_start">#000000</color>
+    <color name="background_gradient_end">#DDDDDD</color>
+<!--    <color name="fastlane_background">#0096e6</color>-->
+    <!--<color name="fastlane_background">#1976D2</color>-->
+    <color name="fastlane_background">@color/sd_green</color>
+    <color name="search_opaque">@color/sd_yellow</color><!--ffaa3f-->
+    <color name="default_background">#3d3d3d</color>
+    <color name="icon_background">#4A4F51</color>
+    <color name="icon_alt_background">#2A2F51</color>
+
+    <color name="guidance_title">@color/sd_yellow</color>
+    <color name="guidance_breadcrumb">#DDDDDD</color>
+    <color name="guidance_description">#DDDDDD</color>
+
+    <!-- Seikeidenron color -->
+    <color name="sd_green">#6FB92C</color>
+    <color name="sd_yellow">#FAED00</color>
+
+    <!-- Gradients -->
+    <color name="white">#FFFFFF</color>
+    <color name="grey90">#E6E6E6</color>
+    <color name="grey80">#CCCCCC</color>
+    <color name="grey70">#B3B3B3</color>
+    <color name="grey60">#999999</color>
+    <color name="grey50">#808080</color>
+    <color name="grey40">#666666</color>
+    <color name="grey30">#4D4D4D</color>
+    <color name="grey20">#333333</color>
+    <color name="grey10">#101010</color>
+    <color name="black">#59000000</color>
+    <color name="true_black">#000000</color>
+    <color name="black_opaque">#AA000000</color>
+
+    <!-- Primary -->
+    <color name="red">#FF0000</color>
+    <color name="redlight">#F3AE1B</color>
+    <color name="reddark">#990000</color>
+    <color name="green">#00FF00</color>
+    <color name="greenlight">#70C656</color>
+    <color name="greendark">#53933F</color>
+    <color name="blue">#0000FF</color>
+    <color name="bluelight">#449DEF</color>
+    <color name="bluedark">#2F6699</color>
+
+    <!-- Material design color -->
+    <color name="material_green500">#4CAF50</color>
+    <color name="material_green900">#1B5E20</color>
+    <color name="material_teal500">#009688</color>
+    <color name="material_teal700">#00796B</color>
+    <color name="material_teal900">#004D40</color>
+    <color name="material_lightgreen700">#689F38</color>
+    <color name="material_lightgreen900">#33691E</color>
+</resources>
