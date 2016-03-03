@@ -15,18 +15,11 @@ In this application, you can enjoy
 2. 
 
 
-Introduction
+How to build
 ------------
-Source code of [政経電論 - Android TV] (https://play.google.com/store/apps/details?id=jp.seikeidenron.androidtv)
+In order to build & test this app in your local environment, you need to add YouTube Data API Developer key 
+at jp.seikeidenron.androidtv.data.youtube.YTUtil
 
-[政経電論] (http://seikeidenron.jp/) is web media for economics & politics in Japan.
-It publishes free web magazine for economics and politics every 2 month.
-
-In this application, you can enjoy
-
-1. Seikeidenron web magazine
-
-2. Seikeidenron Youtube channel
 
 
 License
