@@ -4,6 +4,11 @@ Android TV app for 政経電論 (Seikeidenron)
 
 Introduction
 ------------
+
+<p align="center">
+    <img src="images/screenshot-browsefragment-01.png" alt="Seikeidenron Main Display"/>
+</p>
+
 Source code of [政経電論 - Android TV] (https://play.google.com/store/apps/details?id=jp.seikeidenron.androidtv)
 
 [政経電論] (http://seikeidenron.jp/) delivers news for economics and politics every 2 month.
@@ -12,13 +17,13 @@ In this application, you can enjoy
 
 1. Seikeidenron web magazine
 
-2. 
+2. Seikeidenron Youtube Channel video
 
 
 How to build
 ------------
 In order to build & test this app in your local environment, you need to add YouTube Data API Developer key 
-at jp.seikeidenron.androidtv.data.youtube.YTUtil
+at [YTUTil] (/app/src/main/java/jp/seikeidenron/androidtv/data/youtube/YTUtil.java)
 
 
 
