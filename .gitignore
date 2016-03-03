@@ -10,3 +10,5 @@ app/app.iml
 .idea/
 gradlew
 gradlew.bat
+Seikeidenron-AndroidTV.iml
+gradle.properties
